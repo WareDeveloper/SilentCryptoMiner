@@ -1,3 +1,8 @@
+![image](https://github.com/WareDeveloper/SilentCryptoMiner/assets/70594648/60441dab-f42e-4fb3-aa66-a6bf036a86df)
+
+
+
+
 SilentCryptoMiner v3.4.0 - Miner for ETC, RVN, XMR, RTM & many more
 A free silent (hidden) native cryptocurrency miner capable of mining ETC, RVN, XMR, RTM and much more, with many features suited for mining silently.
 
